@@ -6,7 +6,7 @@ subtitle: Though the mills of God grind slowly, yet they grind exceeding small.
 
 profile:
   align: right
-  image: momin 2 (1).jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Knowles Engineering Building</p>
