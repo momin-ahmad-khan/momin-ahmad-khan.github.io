@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Though the mills of God grind slowly, yet they grind exceeding small.
+subtitle: Though the mills of God grind slowly, yet they grind exceeding small.
 
 profile:
   align: right
