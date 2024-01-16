@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Though the mills of God grind slowly, they grind exceedingly small.
+subtitle: Don't be part of the problem. Be the whole problem.
 
 profile:
   align: right
