@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Don't be part of the problem. Be the whole problem.
 
 profile:
   align: right
