@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint [Decoding FL Defenses: Systemization, Pitfalls, and Remedies](https://arxiv.org/abs/2502.05211) is out!
+Our new preprint [Decoding FL Defenses: Systemization, Pitfalls, and Remedies](https://arxiv.org/pdf/2502.05211) is out!
