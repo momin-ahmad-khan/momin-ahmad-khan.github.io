@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint [SABRE-FL: Selective and Accurate Backdoor Rejection for Federated Prompt Learning]([https://people.umass.edu/fanwar/](https://arxiv.org/abs/2506.22506))
+Our new preprint [SABRE-FL: Selective and Accurate Backdoor Rejection for Federated Prompt Learning](https://arxiv.org/abs/2506.22506) is out!
