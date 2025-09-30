@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, [Controlling Vision–Language–Action Policies through Sparse Latent Directions]([https://arxiv.org/pdf/2502.05211](https://momin-ahmad-khan.github.io/assets/pdf/NeurIPS_mechanistic_interpretability.pdf)), is accepted to the Mechanistic Interpretability Workshop at NeurIPS 2025!
+Our work, [Controlling Vision–Language–Action Policies through Sparse Latent Directions]((https://momin-ahmad-khan.github.io/assets/pdf/NeurIPS_mechanistic_interpretability.pdf)), is accepted to the Mechanistic Interpretability Workshop at NeurIPS 2025!
