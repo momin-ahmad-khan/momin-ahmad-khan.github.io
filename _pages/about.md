@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year PhD student at UMass Amherst, working with Professor [Fatima Anwar](https://people.umass.edu/fanwar/). My areas of interest are the security and privacy of distributed machine learning systems. I have worked on designing new attacks and defenses for Federated Learning (FL) and uncovering experimental pitfalls in the robustness evaluations of existing attacks and defenses.
+I am a fifth-year PhD student at UMass Amherst, working with Professor [Fatima Anwar](https://people.umass.edu/fanwar/). My areas of interest are the security and privacy of distributed machine learning systems. I have worked on designing new attacks and defenses for Federated Learning (FL) and uncovering experimental pitfalls in the robustness evaluations of existing attacks and defenses.
 
 Currently, I am a research intern at Nokia Bell Labs in the Autonomous Systems Research Group, where I am working on mechanistic interpretability for embodied AI.
 In the summer of 2024, I was a research intern in the same group at Bell Labs. I worked on designing model selection and code generation pipelines using various LLM agents and tools. Additionally, I developed a smart meeting manager utilizing LLMs, computer vision models, and hardware components to automate the orchestration and conduct of meetings without human intervention.
