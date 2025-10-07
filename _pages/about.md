@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Knowles Engineering Building</p>
