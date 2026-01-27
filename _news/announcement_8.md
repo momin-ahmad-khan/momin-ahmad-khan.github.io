@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-08 15:59:00-0400
+date: 2026-01-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our new preprint [Decoding FL Defenses: Systemization, Pitfalls, and Remedies](https://arxiv.org/pdf/2502.05211) is out!
+Our paper [Decoding FL Defenses: Systemization, Pitfalls, and Remedies](https://arxiv.org/pdf/2502.05211) is accepted to ACM TOPS!
